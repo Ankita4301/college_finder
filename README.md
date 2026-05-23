@@ -200,3 +200,5 @@ Built as a production-grade MVP for a college discovery platform.
 - **Error Handling**: Graceful handling of empty states and invalid inputs
 - **Mobile Responsive**: Works seamlessly on all device sizes
 - **Performance Conscious**: Proper use of memoization and callbacks
+npm install -g vercel
+vercel
